@@ -1,0 +1,12 @@
+{
+  "name": "rickymortin",
+  "displayName": "rickymortin",
+  "expo": {
+    "name": "rickymortin",
+    "slug": "rickymortin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
