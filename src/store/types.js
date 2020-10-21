@@ -1,0 +1,3 @@
+export const GET_CHARACTERS = 'GET_CHARACTERS';
+export const SET_FOLLOWING_PAGE = 'SET_FOLLOWING_PAGE';
+export const GET_EPISODE = 'GET_EPISODE';
